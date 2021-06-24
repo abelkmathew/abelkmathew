@@ -1,5 +1,6 @@
 ### Hi there 👋
- I'm Abel
+
+### I'm Abel
 
 <!--
 **abelkmathew/abelkmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning advanced ReactJs and nodejs
+- 👯 I’m looking to collaborate on web development projects
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
