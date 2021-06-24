@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning advanced ReactJs and NodeJs
 - 👯 I’m looking to collaborate on web development projects
-- 📫 How to reach me: https://www.linkedin.com/in/abel-koshy-mathew-2741161b3/    ![Linkedin](https://user-images.githubusercontent.com/55405281/123303569-8ec51700-d53b-11eb-9b85-7a0e2967c225.png)
+- 📫 How to reach me: ![https://www.linkedin.com/in/abel-koshy-mathew-2741161b3/   ](https://user-images.githubusercontent.com/55405281/123303968-009d6080-d53c-11eb-8e32-d7946066feec.png) 
 
 ##My skills 💻
 
