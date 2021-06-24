@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced ReactJs and nodejs
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: https://www.linkedin.com/in/abel-koshy-mathew-2741161b3/
+
+##My skills 💻
+
+Languages: C, Python, SQL, HTML, CSS, JavaScript, C
+
+Frameworks: Bootstrap, React,  
