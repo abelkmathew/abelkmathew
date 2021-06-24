@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: abelkmathew@gmail.com
 
-##My skills 💻
+###My skills 💻
 
 
 Languages: C, Python, SQL, HTML, CSS, JavaScript,
