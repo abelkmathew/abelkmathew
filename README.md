@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ### My skills 💻
 
 
-Languages: C, Python, SQL, HTML, CSS, JavaScript,
+Languages: C/C++, Python, SQL, HTML, CSS
 
 Frameworks: Bootstrap, React 
