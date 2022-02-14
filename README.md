@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 Languages: C/C++, Python, HTML, CSS
 
 Frameworks: Bootstrap, ReactJS 
+
+### Area of interest 
+Machine Learning
+Web Development
+Internet of Things(IoT)
