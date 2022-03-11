@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning advanced ReactJs and NodeJs
+- 🔭 Willing to learning new technologies
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: abelkmathew@gmail.com
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 Languages: C/C++, Python, HTML, CSS
 
-Frameworks: Bootstrap, ReactJS 
+Frameworks: Bootstrap, ReactJS, RASA
 
 ### Area of interest 
-Machine Learning, Web Development, Internet of Things(IoT)
+Machine Learning, Web Development, Internet of Things(IoT), Chatbot development, Cloud
