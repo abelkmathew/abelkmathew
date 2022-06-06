@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning advanced ReactJs and NodeJs
+- 🌱 I’m a Tech Enthusiast. I'm currently learning advanced ReactJs, RASA and Js
 - 🔭 Willing to learning new technologies
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: abelkmathew@gmail.com
@@ -29,5 +29,7 @@ Languages: C/C++, Python, HTML, CSS
 
 Frameworks: Bootstrap, ReactJS, RASA
 
+Tools: Visual Studio Code, Firebase
+
 ### Area of interest 
-Machine Learning, Web Development, Internet of Things(IoT), Chatbot development, Cloud
+Machine Learning, Web Development, Internet of Things(IoT), Chatbot development,
