@@ -17,19 +17,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m a Tech Enthusiast. I'm currently learning advanced Javascipt - ReactJs, NextJs , JAVA
-- 🔭 Willing to learning new technologies
+- 🌱 I’m a Tech Enthusiast. I'm currently learning advanced Javascript - ReactJs, NextJS, JAVA
+- 🔭 Passionate to learn new technologies
 - 👯 I’m looking to collaborate on web development projects
 - 📫 How to reach me: abelkmathew@gmail.com
 
 ### My skills 💻
 
+Languages: Java, C/C++, Python, HTML, JavaScript
 
-Languages: C/C++, Python, HTML, Java, JavaScript
+Frameworks: Bootstrap, ReactJS, NextJs, RASA
 
-Frameworks: Bootstrap, ReactJS, RASA
+Database: PostgreSQL, MongoDB
 
-Tools: Visual Studio Code, Firebase , 
+Tools: Visual Studio Code, Firebase, 
 
 ### Area of interest 
-Machine Learning, Web Development, Internet of Things(IoT), Chatbot development
+Full Stack Web Development, Machine Learning, Internet of Things(IoT), Chatbot development
